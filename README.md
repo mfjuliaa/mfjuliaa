@@ -35,6 +35,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mfjuliaa&repo=mfjuliaa&theme=react)](https://github.com/mfjuliaa/mfjuliaa)
-
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
