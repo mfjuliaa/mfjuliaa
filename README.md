@@ -1,10 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Júlia+Maria;I'm+19+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
 
-<h1> Olá! Eu sou a Júlia . </h1>
-
-
-- 🔭 Estou trabalhando com Estratégias digitais
-- 🌱 Estudando Analise de desenvolvimento de sistemas
-- 📫 contate-me: juliamariafrancisco3@gmail.com
 
 <div>
   <a href="https://github.com/mfjuliaa">
@@ -33,6 +28,12 @@
   <a href="https://https://www.linkedin.com/in/j%C3%BAlia-maria-francisco-984061255 /" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mfjuliaa}/count.svg" /></p> 
+<br>
 </div>
  
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
