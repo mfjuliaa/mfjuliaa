@@ -23,6 +23,7 @@
  <img align="center" alt="Juh-Canva" height="25" width="40" title="Canva" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style>
  <img align="center" alt="Juh-Figma" height="25" width="40" title="Figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
  <img align="center" alt="Juh-Duo" height="25" width="40" title="Duo" src=https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white>
+  <img align="center" alt="Juh-MariaDB" height="25" width="40" title="MariaDB" src=https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white>
   
  
 
