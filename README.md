@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A533FF&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Júlia+Maria;I'm+20+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
 
 
-<div>
+<div  align="center" >
   <a href="https://github.com/mfjuliaa">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mfjuliaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfjuliaa&layout=compact&langs_count=7&theme=react" /> 
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=mfjuliaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfjuliaa&layout=compact&langs_count=7&theme=react" /> 
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
