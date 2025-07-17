@@ -53,3 +53,13 @@
   <a href="https://www.linkedin.com/in/julia-maria-francisco-984061255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  /" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
+
+
+<div  align="center" >
+  <a href="https://github.com/mfjuliaa">
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=mfjuliaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfjuliaa&layout=compact&langs_count=7&theme=react" /> 
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+
