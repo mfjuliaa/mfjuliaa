@@ -11,6 +11,8 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -18,6 +20,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,nest,nodejs,postgresql,mysql,git,github,linux" alt="Tech Stack"/>
   </a>
 </p>
+
+---
+## 📊 Estatísticas
 
 <div  align="center" >
   <a href="https://github.com/mfjuliaa">
