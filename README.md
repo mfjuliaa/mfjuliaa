@@ -64,7 +64,7 @@
   </a>
 
   <!-- Behance -->
-  <a href="[https://www.behance.net/seu-usuario](https://www.behance.net/MfJuh)" title="Behance">
+  <a href="https://www.behance.net/MfJuh" title="Behance">
     <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </p>
