@@ -9,6 +9,7 @@
 - 🎓 Pós Graduanda na Descomplica faculdade digital
 - 📚 Estudando Java, Python, Ferramentas de BI, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+-  ❤️ Tenho um [behance](https://www.behance.net/MfJuh) onde pretendo começar a postar minhas Dashboard's
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
