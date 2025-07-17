@@ -16,9 +16,14 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,nest,nodejs,postgresql,mysql,git,github,linux" alt="Tech Stack"/>
-  </a>
+  <!-- Ícones do skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,kotlin,postgresql,mysql,git,github" alt="Tech Stack" />
+
+  <!-- Ícone do Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" style="margin-left: 8px;" />
+
+  <!-- Ícone do Excel -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" style="margin-left: 8px;" />
 </p>
 
 ---
@@ -48,12 +53,21 @@
 </p>
 
 <p align="left">
+  <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliamariafrancisco3@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/julia-maria-francisco-984061255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  /" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/julia-maria-francisco-984061255" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Behance -->
+  <a href="[https://www.behance.net/seu-usuario](https://www.behance.net/MfJuh)" title="Behance">
+    <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+</p>
 
 
 
