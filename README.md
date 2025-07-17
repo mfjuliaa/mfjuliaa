@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
+<p align="left">
   <!-- Ícones do skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,kotlin,postgresql,mysql,git,github" alt="Tech Stack" />
 
